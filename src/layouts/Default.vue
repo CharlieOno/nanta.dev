@@ -3,7 +3,7 @@
     <header class="header">
       <nav class="navbar navbar-expand-lg navbar-dark mb-3">
           <div class="container-fluid">
-            <a class="navbar-brand title" href="#">
+            <a class="navbar-brand title" href="/">
               <span class="nanta">nanta</span>.<span class="dev">dev</span>
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -19,12 +19,12 @@
                     Projets
                   </a>
                   <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                    <li><a class="dropdown-item" href="#">Cosmos</a></li>
-                    <li><a class="dropdown-item" href="#">Brika.shop</a></li>
-                    <li><a class="dropdown-item" href="#">Lalaluce</a></li>
-                    <li><a class="dropdown-item" href="#">Sexudection</a></li>
-                    <li><a class="dropdown-item" href="#">Tripsit</a></li>
-                    <li><a class="dropdown-item" href="#">PDFready</a></li>
+                    <li><a class="dropdown-item" href="/cosmos">Cosmos</a></li>
+                    <li><a class="dropdown-item" href="/brikashop">Brika.shop</a></li>
+                    <li><a class="dropdown-item" href="/lalaluce">Lalaluce</a></li>
+                    <li><a class="dropdown-item" href="/sexudection">Sexudection</a></li>
+                    <li><a class="dropdown-item" href="/tripsit">Tripsit</a></li>
+                    <li><a class="dropdown-item" href="/pdfready">PDFready</a></li>
                   </ul>
                 </li>
               </ul>
@@ -33,6 +33,10 @@
         </nav>
     </header>
     <slot/>
+    <hr>
+    <div class="row mb-3">
+      <div class="text-end"><span class="nanta">nanta</span>.<span class="dev">dev</span></div>
+    </div>
   </div>
 </template>
 

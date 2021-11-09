@@ -30,10 +30,36 @@
         à l'image de notre génération. Utiliser les dernières technologies pour semer un projet qui impactera le monde. <code>Aider les autres en apprenant des personnes concernées par un projet</code>.
       </p>
       <hr class="mt-3 mb-5">
+      <h1 class="innovation text-end">Compétences?</h1>
+      <p>Angular</p>
+      <div class="progress mb-3">
+        <div class="progress-bar" role="progressbar" style="width: 85%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
+      </div>
+      <p>Express (Typescript)</p>
+      <div class="progress mb-3">
+        <div class="progress-bar" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+      </div>
+      <p>Ionic (Angular)</p>
+      <div class="progress mb-3">
+        <div class="progress-bar" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+      </div>
+      <p>Vue 2</p>
+      <div class="progress mb-3">
+        <div class="progress-bar" role="progressbar" style="width: 55%" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
+      </div>
+      <p>Gridsome</p>
+      <div class="progress mb-3">
+        <div class="progress-bar" role="progressbar" style="width: 55%" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
+      </div>
+       <p>Adonis.js</p>
+      <div class="progress mb-3">
+        <div class="progress-bar" role="progressbar" style="width: 45%" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100"></div>
+      </div>
+      <hr class="mt-5 mb-5">
       <h1 class="innovation text-start mb-5">Projets</h1>
       <div class="projects row mb-5">
-        <div class="col-sm-12 col-md-6 col-lg-3 col-xl-3"><div class="bubble project-purple">Cosmos</div></div>
-        <div class="col-sm-12 col-md-6 col-lg-3 col-xl-3"><div class="bubble project-orange">brika.shop</div></div>
+        <a href="/cosmos" class="col-sm-12 col-md-6 col-lg-3 col-xl-3"><div class="bubble project-purple">Cosmos</div></a>
+        <a href="/brikashop" class="col-sm-12 col-md-6 col-lg-3 col-xl-3"><div class="bubble project-orange">brika.shop</div></a>
         <div class="col-sm-12 col-md-6 col-lg-3 col-xl-3"><div class="bubble project-green">Lalaluce</div></div>
         <div class="col-sm-12 col-md-6 col-lg-3 col-xl-3"><div class="bubble project-red">Sexudection</div></div>
         <div class="col-sm-12 col-md-6 col-lg-3 col-xl-3"><div class="bubble project-blue">Tripsit</div></div>
@@ -46,7 +72,7 @@
 <script>
 export default {
   metaInfo: {
-    title: 'Hello, world!'
+    title: 'Présentation'
   }
 }
 </script>
@@ -65,8 +91,9 @@ img {
   font-size: 2.5rem;
 }
 
-.projects > div {
+.projects > a {
   margin-bottom: 2rem;
+  text-decoration: none;
 }
 
 .project-red {
