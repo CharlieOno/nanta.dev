@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&family=Zen+Kaku+Gothic+Antique&display=swap');
+
+body {
+    background: #00171F;
+    color: #F9F5FF;
+    font-family: 'Source Code Pro', monospace;
+}
+
+.font-zen {
+    font-family: 'Zen Kaku Gothic Antique', sans-serif;
+}
+
+.nanta {
+    color: #00A7E1;
+}
+
+.title {
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.dev {
+    color: #FF8600;
+}
+
+code {
+    color: #ff61b0;
+}
+
+.bubble {
+    width: 90%;
+    margin: 0 auto;
+    padding: 1rem;
+    border-radius: 3rem;
+    margin-right: 5;
+    text-align: center;
+}
