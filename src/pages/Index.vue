@@ -1,18 +1,18 @@
 <template>
   <Layout>
     <div class="row">
-      <div class="col-6">
+      <div class="col-sm-12 col-md-8 col-lg-7 col-xl-6">
         <h1 class="fw-bold">Entreprendre des projets ensemble</h1>
         <p>Se lancer dans des projets innovants, originaux et open-source pour apporter quelque chose à ce monde grâce au <code>code</code>.</p>
       </div>
-      <div class="col-6">
-        <img src="/svg/Scenes01.svg" alt="presentation" />
+      <div class="col-md-4 col-lg-5 col-xl-6 d-none d-md-block">
+        <img class="animate__heartBeat" src="/svg/Scenes01.svg" alt="presentation" />
       </div>
       <hr class="mt-3 mb-5">
-      <div class="col-6">
-        <img src="/svg/Scenes02.svg" alt="presentation" />
+      <div class="col-md-4 col-lg-5 col-xl-6 mb-3 d-none d-md-block">
+        <img class="animate__heartBeat" src="/svg/Scenes02.svg" alt="presentation" />
       </div>
-      <div class="col-6">
+      <div class="col-sm-12 col-md-8 col-lg-7 col-xl-6">
         <h2 class="fw-bold">Collaborer avec les personnes concernées</h2>
         <p>Créer des projets autour de communautées ciblées, rendre service à un maximum de personnes. Répondre aux besoins de ces personnes par le <code>code</code>.</p>
       </div>
@@ -32,15 +32,15 @@
       <hr class="mt-3 mb-5">
       <h1 class="innovation text-end mb-5">Compétences?</h1>
       <div class="projects row mb-5">
-        <a href="/cosmos" class="col-sm-12 col-md-6 col-lg-3 col-xl-3"><div class="bubble project-purple">Angular</div></a>
-        <a href="/brikashop" class="col-sm-12 col-md-6 col-lg-3 col-xl-3"><div class="bubble project-orange">Vue</div></a>
-        <a class="col-sm-12 col-md-6 col-lg-3 col-xl-3"><div class="bubble project-blue">Typescript</div></a>
-        <a class="col-sm-12 col-md-6 col-lg-3 col-xl-3"><div class="bubble project-blue">Express</div></a>
-        <a class="col-sm-12 col-md-6 col-lg-3 col-xl-3"><div class="bubble project-blue">Adonis.js</div></a>
-        <a class="col-sm-12 col-md-6 col-lg-3 col-xl-3"><div class="bubble project-orange">Gridsome</div></a>
-        <a class="col-sm-12 col-md-6 col-lg-3 col-xl-3"><div class="bubble project-purple">Ionic</div></a>
-        <a class="col-sm-12 col-md-6 col-lg-3 col-xl-3"><div class="bubble project-red">Agile</div></a>
-        <a class="col-sm-12 col-md-6 col-lg-3 col-xl-3"><div class="bubble project-caribbean">Go</div></a>
+        <div href="/cosmos" class="col-sm-12 col-md-6 col-lg-3 col-xl-3"><div class="bubble project-purple">Angular</div></div>
+        <div href="/brikashop" class="col-sm-12 col-md-6 col-lg-3 col-xl-3"><div class="bubble project-orange">Vue</div></div>
+        <div class="col-sm-12 col-md-6 col-lg-3 col-xl-3"><div class="bubble project-blue">Typescript</div></div>
+        <div class="col-sm-12 col-md-6 col-lg-3 col-xl-3"><div class="bubble project-blue">Express</div></div>
+        <div class="col-sm-12 col-md-6 col-lg-3 col-xl-3"><div class="bubble project-blue">Adonis.js</div></div>
+        <div class="col-sm-12 col-md-6 col-lg-3 col-xl-3"><div class="bubble project-orange">Gridsome</div></div>
+        <div class="col-sm-12 col-md-6 col-lg-3 col-xl-3"><div class="bubble project-purple">Ionic</div></div>
+        <div class="col-sm-12 col-md-6 col-lg-3 col-xl-3"><div class="bubble project-red">Agile</div></div>
+        <div class="col-sm-12 col-md-6 col-lg-3 col-xl-3"><div class="bubble project-caribbean">Go</div></div>
       </div>
       <hr class="mt-5 mb-5">
       <h1 class="innovation text-end mb-5">Projets</h1>
@@ -78,7 +78,7 @@ img {
   font-size: 2.5rem;
 }
 
-.projects > a {
+.projects > div, .projects > a {
   margin-bottom: 2rem;
   text-decoration: none;
 }
@@ -111,6 +111,12 @@ img {
 .project-caribbean {
   background: #3BCEAC;
   color: white;
+}
+
+@media (max-width: 574px) {
+  .innovation {
+    font-size: 1rem;
+  }
 }
 
 </style>

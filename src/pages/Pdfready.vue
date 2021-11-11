@@ -8,7 +8,7 @@
                 PDFready (Express Typescript)
             </h1>
             <div class="row mt-5">
-                <div class="col-sm-12 col-md-2 col-lg-2 col-xl-2">
+                <div class="col-sm-12 col-md-2 col-lg-2 col-xl-2" tyle="background: white !important">
                     <img src="/png/github.png" alt="github" style="width: 100%;"/>
                 </div>
                 <div class="col-sm-12 col-md-10 col-lg-10 col-xl-10">

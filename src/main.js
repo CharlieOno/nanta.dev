@@ -17,6 +17,11 @@ export default function(Vue, { router, head, isClient }) {
 
   head.link.push({
     rel: 'stylesheet',
+    href: "https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+  })
+
+  head.link.push({
+    rel: 'stylesheet',
     href: '/css/global.css'
   });
 

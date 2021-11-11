@@ -45,21 +45,23 @@ query Post ($path: String!) {
 
 <style>
 
-    h1, h2, h3, h4, h5 {
-        color: #43ceff;
+
+
+    .markdown-body > img {
+        margin-bottom: 2rem;
     }
 
-    h2 {
+    .markdown-body > h2 {
         font-weight: bolder;
         margin-top: 1.5rem;
     }
 
-    pre {
+    .markdown-body > pre {
         padding: 1rem;
         background: #0c1622;
     }
 
-    article {
+    .markdown-body > article {
         margin-bottom: 2rem;
         background: #172433;
         padding: 1rem;
