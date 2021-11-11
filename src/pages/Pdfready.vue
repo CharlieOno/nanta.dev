@@ -22,3 +22,11 @@
         </div>
     </Layout>
 </template>
+
+<script>
+export default {
+  metaInfo: {
+    title: 'PDFready'
+  }
+}
+</script>

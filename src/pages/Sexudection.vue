@@ -24,3 +24,11 @@
         </div>
     </Layout>
 </template>
+
+<script>
+export default {
+  metaInfo: {
+    title: 'Sexudection'
+  }
+}
+</script>

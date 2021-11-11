@@ -51,3 +51,9 @@ code {
     margin-right: 5;
     text-align: center;
 }
+
+.article-title {
+    color: #ffa700 !important;
+    text-decoration: inherit !important;
+    font-weight: bolder !important;
+}
