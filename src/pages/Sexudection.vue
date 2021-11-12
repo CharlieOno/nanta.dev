@@ -15,7 +15,7 @@
                     Éduquer mieux les personnes grâce à plusieurs fiches synthétiques regroupés dans un seul site. Le but de ce site internet est
                     de le faire tourner à son entourage pour mieux comprendre la communauté LGBTQI+ de manière globale. Toutes les informations
                     sont gratuites et facile d'accès. De plus, le code est publique et accessible directement dans <a href="https://github.com/Sexudection/website">>la page GitHub</a> associée.
-                    <p class="mt-5"><a href="https:/sexudection.com">>lien vers le site</a></p>
+                    <p class="mt-5"><a href="https:/sexudection.com">>sexudection.com</a></p>
                 </div>
             </div>
             <p class="mt-5 mb-5">

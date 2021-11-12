@@ -1,8 +1,9 @@
 <template>
     <Layout>
         <article v-for="post in $page.posts.edges" :key="post.id" >
-        <h2><g-link  class="article-title" :to="post.node.path" rel="bookmark">{{ post.node.title }}</g-link></h2>
-        <p>{{ post.node.summary }}</p>
+          <h2><g-link  class="article-title" :to="post.node.path" rel="bookmark">{{ post.node.title }}</g-link></h2>
+          <p>{{ post.node.summary }}</p>
+          <hr>
         </article>
 
         <Pager :info="$page.posts.pageInfo"/>
@@ -50,8 +51,6 @@ export default {
     }
 
     article {
-        margin-bottom: 2rem;
-        background: #172433;
         padding: 1rem;
         border-radius: 1rem;
     }

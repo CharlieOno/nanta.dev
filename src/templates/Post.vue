@@ -45,8 +45,6 @@ query Post ($path: String!) {
 
 <style>
 
-
-
     .markdown-body > img {
         margin-bottom: 2rem;
     }
@@ -58,12 +56,10 @@ query Post ($path: String!) {
 
     .markdown-body > pre {
         padding: 1rem;
-        background: #0c1622;
     }
 
     .markdown-body > article {
         margin-bottom: 2rem;
-        background: #172433;
         padding: 1rem;
         border-radius: 1rem;
     }

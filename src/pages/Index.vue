@@ -1,18 +1,18 @@
 <template>
   <Layout>
     <div class="row">
-      <div class="col-sm-12 col-md-8 col-lg-7 col-xl-6">
+      <div class="col-sm-12 col-md-8 col-lg-7 col-xl-6 animate__heartBeat">
         <h1 class="fw-bold">Entreprendre des projets ensemble</h1>
         <p>Se lancer dans des projets innovants, originaux et open-source pour apporter quelque chose à ce monde grâce au <code>code</code>.</p>
       </div>
       <div class="col-md-4 col-lg-5 col-xl-6 d-none d-md-block">
-        <img class="animate__heartBeat" src="/svg/Scenes01.svg" alt="presentation" />
+        <img src="/svg/Scenes01.svg" alt="presentation" />
       </div>
       <hr class="mt-3 mb-5">
       <div class="col-md-4 col-lg-5 col-xl-6 mb-3 d-none d-md-block">
-        <img class="animate__heartBeat" src="/svg/Scenes02.svg" alt="presentation" />
+        <img  src="/svg/Scenes02.svg" alt="presentation" />
       </div>
-      <div class="col-sm-12 col-md-8 col-lg-7 col-xl-6">
+      <div class="col-sm-12 col-md-8 col-lg-7 col-xl-6 animate__heartBeat">
         <h2 class="fw-bold">Collaborer avec les personnes concernées</h2>
         <p>Créer des projets autour de communautées ciblées, rendre service à un maximum de personnes. Répondre aux besoins de ces personnes par le <code>code</code>.</p>
       </div>
