@@ -6,7 +6,7 @@
         <p>Se lancer dans des projets innovants, originaux et open-source pour apporter quelque chose à ce monde grâce au <code>code</code>.</p>
       </div>
       <div class="col-md-4 col-lg-5 col-xl-6 d-none d-md-block">
-        <img src="/svg/Scenes01.svg" alt="presentation" />
+        <img   src="/svg/Scenes01.svg" alt="presentation" />
       </div>
       <hr class="mt-3 mb-5">
       <div class="col-md-4 col-lg-5 col-xl-6 mb-3 d-none d-md-block">
