@@ -1,15 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&family=Zen+Kaku+Gothic+Antique&display=swap');
-
-body.dark {
-    background: #0c1622;
-    color: #F9F5FF;
-    font-family: 'Source Code Pro', monospace;
-}
+@import url('https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+Antique&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@200;400;900&display=swap');
 
 body.light {
-    background: #F9F5FF;
-    color: #0c1622;
-    font-family: 'Source Code Pro', monospace;
+    background: #F8F1FF;
+    color: #171738;
+   font-family: 'Titillium Web', sans-serif;
 }
 
 .navbar-dark .navbar-toggler {
@@ -31,25 +26,31 @@ body.light {
     font-family: 'Zen Kaku Gothic Antique', sans-serif;
 }
 
+.font-titillium {
+    font-family: 'Titillium Web', sans-serif;
+}
+
 .nanta {
-    color: #00A7E1;
+    color: #1481BA;
 }
 
 .title {
-    font-weight: bold;
-    font-size: 1.5rem;
+    font-weight: 900;
+    letter-spacing: 3px;
+    font-size: 2rem;
 }
 
 .dev {
-    color: #FF8600;
+    color: #DB5461;
 }
 
 h1, h2, h3, h4, h5 {
-    color: #00a7e1;
+    color: #1481BA;
+    letter-spacing: 2px;
 }
 
 code {
-    color: #ff61b0;
+    color: #DB5461;
 }
 
 .bubble {

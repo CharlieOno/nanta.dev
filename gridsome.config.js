@@ -7,7 +7,7 @@
 module.exports = {
   siteName: 'nanta.dev',
   siteDescription: 'Entrepreneuse développeuse full-stack - essentiellement tournée sur les technologies web les plus récentes.',
-  siteUrl: 'https://nanta;dev',
+  siteUrl: 'https://nanta.dev',
   plugins: [
     {
       use: '@gridsome/source-filesystem',

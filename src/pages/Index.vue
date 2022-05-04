@@ -1,56 +1,64 @@
 <template>
   <Layout>
     <div class="row">
-      <div class="col-sm-12 col-md-8 col-lg-7 col-xl-6 animate__heartBeat">
-        <h1 class="fw-bold">Entreprendre des projets ensemble</h1>
-        <p>Se lancer dans des projets innovants, originaux et open-source pour apporter quelque chose à ce monde grâce au <code>code</code>.</p>
+      <div class="col-sm-12 col-md-12 col-lg-12 col-xl-12">
+        <div class="terminal-header">
+          <div class="dot-red mx-1"></div>
+          <div class="dot-orange mx-1"></div>
+          <div class="dot-green mx-1"></div>
+        </div>
+        <div class="terminal">
+            <div class="content">
+              <h1 class="fw-bold">$> Créer, innover, bâtir l'internet de demain</h1>
+              <p>Se lancer dans des projets innovants, originaux et open-source pour apporter quelque chose à ce monde grâce au <code>code</code>.</p>
+            </div>
+        </div>
       </div>
-      <div class="col-md-4 col-lg-5 col-xl-6 d-none d-md-block">
-        <img   src="/svg/Scenes01.svg" alt="presentation" />
+      <div class="col-sm-12 col-md-8 col-lg-7 col-xl-6 mt-5">
+        <h2 class="fw-bold">Qui suis-je?</h2>
+        <p>
+          Je suis une développeuse web full-stack travaillant sur divers projets informatiques de manière autonome guidé par <code>ma passion pour l'informatique et le code en général</code>.
+        </p>
+        <hr/>
+        <p>
+          Curieuse de tout, je veux en savoir plus sur le monde à travers les technologies qui évoluent au fur et à mesure des années.
+        </p>
+        <hr/>
+        <p>
+          Mon objectif est de pouvoir créer une future entreprise où je pourrais concrétiser mes projets. L'innovation est une notion importante pour moi. <code>Innover, créer sont les clés pour pouvoir bâtir l'internet de demain.</code>
+        </p>
       </div>
-      <hr class="mt-3 mb-5">
-      <div class="col-md-4 col-lg-5 col-xl-6 mb-3 d-none d-md-block">
-        <img  src="/svg/Scenes02.svg" alt="presentation" />
+      <div class="col-md-4 col-lg-5 col-xl-6 mb-3 d-none d-md-block mt-5">
+        <img  src="/jpg/work.jpg" alt="working-girl" />
       </div>
-      <div class="col-sm-12 col-md-8 col-lg-7 col-xl-6 animate__heartBeat">
-        <h2 class="fw-bold">Collaborer avec les personnes concernées</h2>
-        <p>Créer des projets autour de communautées ciblées, rendre service à un maximum de personnes. Répondre aux besoins de ces personnes par le <code>code</code>.</p>
-      </div>
-      <hr class="mt-3 mb-5">
-      <h1 class="innovation text-end">Innovations?</h1>
+
+      <div class="mb-5"></div>
+      <h2 class="fw-bold text-end mb-3">Parcours</h2>
       <p>
-        Exploiter le maximum des nouvelles technologies web pour créer des applications riches et pratiques. Anticiper les besoins de l'utilisateur pour créer des interfaces adaptées
-        et simples d'utilisation. <code>Simplifier le design pour mettre en avant le contenu et le rendre interactif.</code> Créer une intelligence autour de l'utilisation des applications pour
-        s'adapter et évoluer vers des applications de nouvelle génération.
-      </p>
-      <hr class="mt-3 mb-5">
-      <h1 class="innovation text-end">Collaborations?</h1>
+        Après 3 années en cursus PGE (Programme Grande Ecole) à EPITECH, je finis mes études en cursus MSc Pro dans la même école.
+      </p>  
+      <hr/>
       <p>
-        Collaborer avec les personnes concernées par les projets pour mieux comprendre le besoin. Entreprendre avec l'aide de personnes autour de soi pour bâtir les nouveaux sites
-        à l'image de notre génération. Utiliser les dernières technologies pour semer un projet qui impactera le monde. <code>Aider les autres en apprenant des personnes concernées par un projet</code>.
+        Je suis actuellement en deuxième année de master en management des systèmes d'informations, en alternance dans une start-up qui propose une solution B2B2C pour louer des véhicules en tant que CEO.
       </p>
-      <hr class="mt-3 mb-5">
-      <h1 class="innovation text-end mb-5">Compétences?</h1>
-      <div class="projects row mb-5">
+      <hr/>
+      <p>
+        Durant mes années d'études, j'ai pu faire des stages qui m'ont apprit les fondamentaux du développement web et j'en ai fais ma spécialité. Désormais, je m'intéresse à l'UX et le Web Design, à la sécurité web et au management.
+      </p>
+      <h2 class="fw-bold text-end mb-5">Compétences</h2>
+      <div class="projects row">
         <div href="/cosmos" class="col-sm-12 col-md-6 col-lg-3 col-xl-3"><div class="bubble project-purple">Angular</div></div>
-        <div href="/brikashop" class="col-sm-12 col-md-6 col-lg-3 col-xl-3"><div class="bubble project-orange">Vue</div></div>
-        <div class="col-sm-12 col-md-6 col-lg-3 col-xl-3"><div class="bubble project-blue">Typescript</div></div>
-        <div class="col-sm-12 col-md-6 col-lg-3 col-xl-3"><div class="bubble project-blue">Express</div></div>
-        <div class="col-sm-12 col-md-6 col-lg-3 col-xl-3"><div class="bubble project-blue">Adonis.js</div></div>
-        <div class="col-sm-12 col-md-6 col-lg-3 col-xl-3"><div class="bubble project-orange">Gridsome</div></div>
+        <div href="/brikashop" class="col-sm-12 col-md-6 col-lg-3 col-xl-3"><div class="bubble project-purple">Vue</div></div>
+        <div class="col-sm-12 col-md-6 col-lg-3 col-xl-3"><div class="bubble project-purple">Gridsome</div></div>
         <div class="col-sm-12 col-md-6 col-lg-3 col-xl-3"><div class="bubble project-purple">Ionic</div></div>
-        <div class="col-sm-12 col-md-6 col-lg-3 col-xl-3"><div class="bubble project-red">Agile</div></div>
-        <div class="col-sm-12 col-md-6 col-lg-3 col-xl-3"><div class="bubble project-caribbean">Go</div></div>
-      </div>
-      <hr class="mt-5 mb-5">
-      <h1 class="innovation text-end mb-5">Projets</h1>
-      <div class="projects row mb-5">
-        <a href="/cosmos" class="col-sm-12 col-md-6 col-lg-3 col-xl-3"><div class="bubble project-purple">Cosmos</div></a>
-        <a href="/brikashop" class="col-sm-12 col-md-6 col-lg-3 col-xl-3"><div class="bubble project-orange">brika.shop</div></a>
-        <a href="/lalaluce" class="col-sm-12 col-md-6 col-lg-3 col-xl-3"><div class="bubble project-green">Lalaluce</div></a>
-        <a href="/sexudection" class="col-sm-12 col-md-6 col-lg-3 col-xl-3"><div class="bubble project-red">Sexudection</div></a>
-        <a href="/tripsit" class="col-sm-12 col-md-6 col-lg-3 col-xl-3"><div class="bubble project-blue">Tripsit</div></a>
-        <a href="/pdfreay" class="col-sm-12 col-md-6 col-lg-3 col-xl-3"><div class="bubble project-caribbean">PDFready</div></a>
+        <div class="col-sm-12 col-md-6 col-lg-3 col-xl-3"><div class="bubble project-blue">Typescript</div></div>
+        <div class="col-sm-12 col-md-6 col-lg-3 col-xl-3"><div class="bubble project-blue">JavaScript</div></div>
+        <div class="col-sm-12 col-md-6 col-lg-3 col-xl-3"><div class="bubble project-green">Express</div></div>
+        <div class="col-sm-12 col-md-6 col-lg-3 col-xl-3"><div class="bubble project-green">Fiber</div></div>
+        <div class="col-sm-12 col-md-6 col-lg-3 col-xl-3"><div class="bubble project-green">NodeJS</div></div>
+        <div class="col-sm-12 col-md-6 col-lg-3 col-xl-3"><div class="bubble project-red">Ghost</div></div>
+        <div class="col-sm-12 col-md-6 col-lg-3 col-xl-3"><div class="bubble project-caribbean">Bootstrap</div></div>
+        <div class="col-sm-12 col-md-6 col-lg-3 col-xl-3"><div class="bubble project-caribbean">Bulma</div></div>
       </div>
     </div>
   </Layout>
@@ -75,7 +83,7 @@ img {
 }
 
 .innovation {
-  font-size: 2.5rem;
+  font-size: 1.5rem;
 }
 
 .projects > div, .projects > a {
@@ -113,10 +121,46 @@ img {
   color: white;
 }
 
-@media (max-width: 574px) {
-  .innovation {
-    font-size: 1rem;
-  }
+.terminal {
+  background-color: #171738;
+  color: #F8F1FF;
+  border-radius: 0rem 0rem 1rem 1rem;
+  padding: 1rem;
+}
+
+.terminal-header {
+  background-color: #d2d2d2;
+  padding: 1rem;
+  border-radius: 1rem 1rem 0rem 0rem;
+}
+
+h1 {
+  color: #F8F1FF !important;
+  font-size: 1.5rem !important;
+}
+
+.dot-green {
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background-color: #0EAD69;
+  display: inline-block;
+}
+
+.dot-red {
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background-color: #D72638;
+  display: inline-block;
+}
+
+.dot-orange {
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background-color: #F49D37;
+  display: inline-block;
 }
 
 </style>

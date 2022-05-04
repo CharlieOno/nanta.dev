@@ -15,9 +15,8 @@ export default function(Vue, { router, head, isClient }) {
     href: '/css/bootstrap.min.css'
   });
 
-  head.link.push({
-    rel: 'stylesheet',
-    href: "https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+  head.script.push({
+    src: "https://kit.fontawesome.com/12c3018f5d.js"
   })
 
   head.link.push({
