@@ -41,7 +41,7 @@
     <slot/>
     <hr>
     <div class="row mb-3">
-      <div class="text-end title"><span class="nanta">NANTA</span>.<span class="dev">DEV</span></div>
+      <div class="text-end"><span class="nanta">NANTA</span>.<span class="dev">DEV</span></div>
     </div>
   </div>
 </template>

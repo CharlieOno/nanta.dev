@@ -9,7 +9,7 @@
         </div>
         <div class="terminal">
             <div class="content">
-              <h1 class="fw-bold">$> Créer, innover, bâtir l'internet de demain</h1>
+              <h1 class="fw-bold" style="color: #F8F1FF; font-size: 1.5rem;">$> Créer, innover, bâtir l'internet de demain</h1>
               <p>Se lancer dans des projets innovants, originaux et open-source pour apporter quelque chose à ce monde grâce au <code>code</code>.</p>
             </div>
         </div>
@@ -132,11 +132,6 @@ img {
   background-color: #d2d2d2;
   padding: 1rem;
   border-radius: 1rem 1rem 0rem 0rem;
-}
-
-h1 {
-  color: #F8F1FF !important;
-  font-size: 1.5rem !important;
 }
 
 .dot-green {

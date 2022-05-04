@@ -1,9 +1,11 @@
 import DefaultLayout from '~/layouts/Default.vue';
+import VueCompositionAPI from '@vue/composition-api'
 
 export default function(Vue, { router, head, isClient }) {
   // Set default layout as a global component
   Vue.component('Layout', DefaultLayout);
   Vue.component('Cosmos', DefaultLayout);
+  Vue.use(VueCompositionAPI);
 
   head.meta.push({
     name: 'keywords',
@@ -17,6 +19,10 @@ export default function(Vue, { router, head, isClient }) {
 
   head.script.push({
     src: "https://kit.fontawesome.com/12c3018f5d.js"
+  })
+
+  head.script.push({
+    src: 'https://www.google.com/recaptcha/api.js'
   })
 
   head.link.push({
