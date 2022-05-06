@@ -2,7 +2,7 @@
 title: "Créer un site web de qualité en 6 étapes"
 path: /creer-site-web-de-qualite-six-etapes
 date: 2021-11-12
-summary: "Créer un site optimisé en SEO, conseils de rédaction et technique"
+summary: "Avoir les bases pour faire un site attractif"
 	tags: [ 'Tutorial', 'Web', 'SEO' ]
 ---
 

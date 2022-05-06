@@ -1,11 +1,9 @@
 <template>
     <Layout>
-        <article v-for="post in $page.posts.edges" :key="post.id" >
+        <article class="mb-3" v-for="post in $page.posts.edges" :key="post.id" >
           <h2><g-link  class="article-title" :to="post.node.path" rel="bookmark">{{ post.node.title }}</g-link></h2>
           <p>{{ post.node.summary }}</p>
-          <hr>
         </article>
-
         <Pager :info="$page.posts.pageInfo"/>
   </Layout>
 </template>
@@ -39,7 +37,7 @@ export default {
     Pager
   },
   metaInfo: {
-    title: 'Mes articles'
+    title: 'Blog'
   },
 }
 </script>
@@ -47,11 +45,10 @@ export default {
 <style>
 
     h2 {
-        font-size: 1.5rem !important;
+        font-size: 1.25rem !important;
     }
 
     article {
-        padding: 1rem;
         border-radius: 1rem;
     }
 

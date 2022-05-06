@@ -1,8 +1,6 @@
 <template>
     <Layout>
         <article>
-        <h1 class="text-bold"># {{ $page.post.title }} </h1>
-        <hr>
         <div>
             <g-link class="article-title"
                 v-for="tag in $page.post.tags"

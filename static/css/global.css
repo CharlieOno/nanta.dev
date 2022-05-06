@@ -63,7 +63,27 @@ code {
 }
 
 .article-title {
-    color: #ffa700 !important;
+    color: #1481BA;
     text-decoration: inherit !important;
     font-weight: bolder !important;
+    letter-spacing: 2px;
+}
+
+.dropdown-menu {
+    border: none;
+}
+
+@media (min-width: 1000px) {
+    .dropdown-menu:before {
+        content: "";
+        position: absolute;
+        border-color: rgba(194, 225, 245, 0);
+        border: solid transparent;
+        border-bottom-color: white;
+        border-width: 11px;
+        margin-left: -10px;
+        top: -21px;
+        left: 20px;
+        z-index: 1;
+    }
 }

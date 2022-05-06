@@ -2,7 +2,7 @@
 title: "Workshop : Créer un site web optimisé en SEO"
 path: /workshop-site-web-seo
 date: 2020-03-11
-summary: "Créer un site vitrine en moins de 2 heures"
+summary: "Connaître les bases du SEO"
 tags: [ 'Exercices', 'Javascript', 'SEO' ]
 ---
 

@@ -1,10 +1,10 @@
 <template>
     <Layout>
         <div class="row">
-            <div class="col-sm-12 col-md-12 col-lg-4 col-xl-3">
+            <div class="col-5 col-sm-4 col-md-4 col-lg-4 col-xl-3">
                 <img class="profile" src="/jpg/photo.jpg" alt="nanta"/>
             </div>
-            <div class="col-sm-12 col-md-12 col-lg-8 col-xl-9">
+            <div class="col-sm-8 col-md-8 col-lg-8 col-xl-9">
                 <h1 class="fw-bold center-v nanta">Développeuse Web<br>Full-Stack</h1>
             </div>
             <hr class="mb-4 mt-3">
