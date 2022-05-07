@@ -33,6 +33,14 @@
       </div>
 
       <div class="mb-5"></div>
+      <h2 class="fw-bold text-end mb-3">Créativité</h2>
+      <p>
+        Mes idées fusent et les projets que j'ai se multiplient, j'ai besoin d'exprimer ma 
+        créativité autant sur des projets informatiques que graphiques. J'ai pour passion 
+        de créer des NFTs que je propose sur <a href="https://opensea.io/daomon" target="_blank">mon espace OpenSea</a>
+        et je souhaite le lier à un projet informatique derrière pour mettre en avant la création d'une gallerie
+        fait par mes créations et créer une communauté autour de ces oeuvres.
+      </p>
       <h2 class="fw-bold text-end mb-3">Parcours</h2>
       <p>
         Après 3 années en cursus PGE (Programme Grande Ecole) à EPITECH, je finis mes études en cursus MSc Pro dans la même école.
@@ -44,8 +52,8 @@
       <hr/>
       <p>
         Durant mes années d'études, j'ai pu faire des stages qui m'ont apprit les fondamentaux du développement web et j'en ai fais ma spécialité. Désormais, je m'intéresse à l'UX et le Web Design, à la sécurité web et au management.
-      </p>
-      <h2 class="fw-bold text-end mb-5">Compétences</h2>
+      </p>  
+      <h2 class="fw-bold text-end mb-4">Compétences</h2>
       <div class="projects row">
         <div href="/cosmos" class="col-sm-12 col-md-6 col-lg-3 col-xl-3"><div class="bubble project-purple">Angular</div></div>
         <div href="/brikashop" class="col-sm-12 col-md-6 col-lg-3 col-xl-3"><div class="bubble project-purple">Vue</div></div>

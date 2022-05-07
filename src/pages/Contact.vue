@@ -43,6 +43,9 @@ import { VueRecaptcha } from 'vue-recaptcha';
 
 export default {
   name: 'Contact',
+  metaInfo: {
+      title: 'Contact'
+  },
   components: {
       'vue-recaptcha': VueRecaptcha
   },

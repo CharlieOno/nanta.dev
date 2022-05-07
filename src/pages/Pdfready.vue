@@ -7,13 +7,32 @@
                 </svg>
                 PDFready (Express Typescript)
             </h1>
-            <div class="row mt-5">
-                <div class="col-sm-12 col-md-2 col-lg-2 col-xl-2" tyle="background: white !important">
-                    <img src="/png/github.png" alt="github" style="width: 100%;"/>
+            <div class="row mt-3">
+                <div class="col-sm-12 col-md-12 col-lg-12 col-xl-12">
+                    <p>
+                        PDFready est un microservice qui utilise Express + Typescript pour générer 
+                        des PDF à partir de différentes méthodes. Il y a 3 manières de créer un PDF 
+                        à partir de ce microservice : html, page web ou bien une template 
+                        personnalisée avec Mustache (web template system).
+                    </p>
+                    <hr>
+                    <p>
+                        Les utilisations de ce microservice sont multiples, vous pouvez créer 
+                        des documents comme des factures, des CVs personnalisés et bien 
+                        d'autres.
+                    </p>
+                    <hr>
+                    <p>
+                        L'implémentation de ce microservice est décrit directement sur le GitHub
+                        et est facilement adaptable, vous pouvez étendre les fonctionnalités et la 
+                        mise en place est rapide.
+                    </p>
                 </div>
-                <div class="col-sm-12 col-md-10 col-lg-10 col-xl-10">
-                    Template d'un serveur express qui implémente la fonction de créer des PDF à partir de html, d'une page web ou d'une template personnalisable.
-                    Il y a un exemple de template et la documentation est directement dans <a href="https://github.com/CharlieOno/PDFready">>la page GitHub</a> associée.
+                <div class="col-sm-12 col-md-12 col-lg-12 col-xl-12">
+                    <a type="button" class="btn btn-light" href="https://github.com/CharlieOno/PDFready" target="_blank">
+                        <img style="width: 32px;"  src="/png/github.png" alt="github"/>
+                        <span class="px-2">Répertoire GitHub</span>
+                    </a>
                 </div>
             </div>
             <p class="mt-5 mb-5">
