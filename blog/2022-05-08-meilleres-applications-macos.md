@@ -32,7 +32,7 @@ Tabby est un terminal moderne avec un client SSH intégré. Personnalisez facile
 
 Des fonctionnalités intéressantes sont proposées, le fait d'avoir plusieurs terminal, de pouvoir partager l'écran du terminal, copier-coller depuis le terminal. Et plus important, possibilité d'intégrer Fig avec Tabby!
 
-![Tabby](https://i.ibb.co/25rYzHM/Capture-d-cran-de-2022-05-08-10-50-44.png)
+![Tabby](https://i.ibb.co/xF8xvgd/Capture-d-cran-de-2022-05-08-10-37-50.png)
 
 > [Site officiel de Tabby](https://tabby.sh/)
 
@@ -42,7 +42,7 @@ Fig permet à votre terminal de faire de l'autocomplétion et fonctionne avec la
 
 Une bonne synergie avec l'utilisation de Tabby comme terminal.
 
-![Fig](https://i.ibb.co/25rYzHM/Capture-d-cran-de-2022-05-08-10-50-44.png)
+![Fig](https://i.ibb.co/1bNJCjX/Capture-d-cran-de-2022-05-08-10-50-44.png)
 
 > [Répertoire Github de Fig](https://github.com/withfig/autocomplete)
 
@@ -52,7 +52,7 @@ VSCode est un éditeur de texte et non pas un IDE mais ses extensions permettent
 
 De plus, vous trouverez plusieurs personnalisations de l'éditeur, les extensions et le terminal intégré à l'éditeur. L'utilisation est simple et pratique et adapté à tout les languages de programmation.
 
-![VSCode](https://i.ibb.co/L9tZRBB/Capture-d-cran-de-2022-05-08-11-35-57.png)
+![VSCode](https://i.ibb.co/Lz2mhqK/Capture-d-cran-de-2022-05-08-11-35-43.png)
 
 > [Site officiel de VSCode](https://code.visualstudio.com/)
 
@@ -63,7 +63,7 @@ concepteurs d'applications mobile.
 
 Créez des collections, des pipelines, des tests automatisés dans une belle interface moderne.
 
-![Insomnia](https://i.ibb.co/2sdVgGp/Capture-d-cran-de-2022-05-08-11-38-35.png)
+![Insomnia](https://i.ibb.co/yYqvWHx/Capture-d-cran-de-2022-05-08-11-38-35.png)
 
 > [Site officiel d'insomnia](https://insomnia.rest/)
 
@@ -73,7 +73,7 @@ Ayez les dernières fonctionnalités des navigateurs web en avance avec des outi
 
 Une alternative à [Chrome Canary](https://www.google.com/chrome/canary/) qui propose des fonctionnalités similaires sous Chrome.
 
-![Firefox Developer Edition](https://i.ibb.co/tLqhVRb/Capture-d-cran-de-2022-05-08-11-43-16.png)
+![Firefox Developer Edition](https://i.ibb.co/PDcYqk5/Capture-d-cran-de-2022-05-08-11-43-16.png)
 
 > [Site officiel de Firefox Developer Edition](https://www.mozilla.org/fr/firefox/developer/)
 
@@ -82,7 +82,7 @@ Une alternative à [Chrome Canary](https://www.google.com/chrome/canary/) qui pr
 Beekeeper Studio est un client permettant de gérer vos bases de données MySQL, Postgres, SQLite, SQL Server et d'autres encore. Une communauté est
 présente pour soutenir ce projet Open Source.
 
-![Beekeeper Studio](https://i.ibb.co/Gpb9C6n/Capture-d-cran-de-2022-05-08-11-46-28.png)
+![Beekeeper Studio](https://i.ibb.co/W5Y0BhG/Capture-d-cran-de-2022-05-08-11-46-28.png)
 
 > [Site officiel de Beekeeper Studio](https://www.beekeeperstudio.io/)
 
@@ -91,7 +91,7 @@ présente pour soutenir ce projet Open Source.
 Interface pour gérer vos bases de données MongoDB, prise en main facile
 et intuitive. C'est un outil pour les développeurs qui travaillent avec des bases de données MongoDB.
 
-![MongoDB Compass](https://i.ibb.co/wK363Tt/Capture-d-cran-de-2022-05-08-11-49-08.png)
+![MongoDB Compass](https://i.ibb.co/xMP5PyZ/Capture-d-cran-de-2022-05-08-11-49-08.png)
 
 > [Site officiel de MongoDB Compass](https://www.mongodb.com/products/compass)
 
@@ -99,7 +99,7 @@ et intuitive. C'est un outil pour les développeurs qui travaillent avec des bas
 
 Accédez rapidement aux icônes dont vous avez besoin pour le développement de front-end en vous proposant différents pack d'icônes que vous pourrez télécharger en PNG gratuitement.
 
-![Icons8](https://i.ibb.co/dJPGZvF/Capture-d-cran-de-2022-05-08-11-51-20.png)
+![Icons8](https://i.ibb.co/7Nn2hDP/Capture-d-cran-de-2022-05-08-11-51-20.png)
 
 > [Site officiel d'Icons8](https://icons8.com/app/windows)
 
@@ -108,7 +108,7 @@ Accédez rapidement aux icônes dont vous avez besoin pour le développement de 
 Gérez vos repertoires GitHub sous forme d'un client, dans une interface qui est plus ergonomique que la version web de Github. Un indispensable
 quand on utilise GitHub.
 
-![Github Desktop](https://i.ibb.co/q1zRJFc/Capture-d-cran-de-2022-05-08-11-52-13.png)
+![Github Desktop](https://i.ibb.co/WKQcVpM/Capture-d-cran-de-2022-05-08-11-52-13.png)
 
 > [Site officiel de Github Desktop](https://desktop.github.com/)
 
@@ -118,7 +118,7 @@ Un client d'e-mail qui permet de gérer tout vos mails à un seul endroit en les
 
 Une version gratuite existe mais si vous souhaitez plus de fonctionnalités vous pouvez aussi accéder aux formules payantes.
 
-![BlueMail](https://i.ibb.co/RgFhQKN/Capture-d-cran-de-2022-05-08-11-53-17.png)
+![BlueMail](https://i.ibb.co/b60HNVF/Capture-d-cran-de-2022-05-08-11-53-17.png)
 
 > [Site officiel de BlueMail](https://bluemail.me/)
 
@@ -128,7 +128,7 @@ Prenez des notes en utilisant le Markdown pour planifier des listes de tâches e
 
 Également disponible sur iPhone et iPad.
 
-![Bear](https://i.ibb.co/xDm33wj/Capture-d-cran-de-2022-05-08-11-54-13.png)
+![Bear](https://i.ibb.co/bPH77YB/Capture-d-cran-de-2022-05-08-11-54-13.png)
 
 > [Site officiel de Bear](https://bear.app/)
 
@@ -146,6 +146,6 @@ Incontournable des développeurs mobiles qui souhaitent créer des applications 
 
 Créez des prototypes de vos projets de développeurs en créant des maquettes intéractives avec la possibilité de rajouter des collaborateurs, le projet est totalement gratuit et complet.
 
-![Lunacy](https://i.ibb.co/5j9vPhH/Capture-d-cran-de-2022-05-08-12-42-33.png)
+![Lunacy](https://i.ibb.co/6tZbk0C/Capture-d-cran-de-2022-05-08-12-42-33.png
 
 > [Site officiel de Lunacy](https://icons8.com/lunacy)
