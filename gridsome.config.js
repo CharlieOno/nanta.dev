@@ -27,7 +27,7 @@ module.exports = {
       use: 'gridsome-plugin-gtag',
       options: {
           config: {
-              id: "3550146350",
+              id: "G-EHNG6TJ3D4",
           },
       },
     },
