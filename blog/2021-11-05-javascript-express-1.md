@@ -6,7 +6,9 @@ summary: "Niveau 1 : apprendre les bases du javascript"
 tags: [ 'Exercices', 'Javascript' ]
 ---
 
-# Exercices Javascript
+# Exercices Javascript (Jour 1)
+
+---
 
 **Logiciel** : Visual Studio Code + Node.js  
 **Language** : Javascript  

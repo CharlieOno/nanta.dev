@@ -6,6 +6,10 @@ summary: "Obtenir une application compatible sur Linux/Windows/Mac à partir d'u
 tags: [ 'Tutorial', 'Hack', 'Tool' ]
 ---
 
+# Obtenir une application native à partir d'une page web
+
+---
+
 ## Sommaire de l'article
 
 1. Obtenir une application native à partir d'une page web
@@ -33,8 +37,6 @@ pour être utilisée avec Electron Packager et ainsi générer une application
 native en électron. Pour obtenir davantage d'informations sur Nativefier,
 rendez-vous sur [la page GitHub du projet](https://github.com/jiahaog/nativefier).
 
-![Example image](/assets/images/nativefier-use.png)
-
 Pour l'exemple nous allons utiliser nativefier en spécifiant un nom et une URL.
 
 ```shell
@@ -48,8 +50,6 @@ lancé.
 ```shell
 cd messenger-linux-x64/ && ./messenger
 ```
-
-![Example image](/assets/images/nativefier-application.png)
 
 ## 2. Exploiter la variable d'environnement PATH sur Linux
 
@@ -134,5 +134,3 @@ echo /home/$USER/
 ```
 
 Vous pouvez maintenant éxécuter messenger depuis le menu GNOME.
-
-![Example image](/assets/images/messenger.png)

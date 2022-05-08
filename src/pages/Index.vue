@@ -37,7 +37,7 @@
       <p>
         Mes idées fusent et les projets que j'ai se multiplient, j'ai besoin d'exprimer ma 
         créativité autant sur des projets informatiques que graphiques. J'ai pour passion 
-        de créer des NFTs que je propose sur <a href="https://opensea.io/daomon" target="_blank">mon espace OpenSea</a>
+        de créer des NFTs que je propoPse sur <a href="https://opensea.io/daomon" target="_blank">mon espace OpenSea</a>
         et je souhaite le lier à un projet informatique derrière pour mettre en avant la création d'une gallerie
         fait par mes créations et créer une communauté autour de ces oeuvres.
       </p>

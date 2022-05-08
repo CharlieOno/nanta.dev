@@ -6,6 +6,10 @@ summary: "S'améliorer sur le SEO en apprenant quelques critères"
 tags: [ 'Guide', 'Tutorial', 'SEO' ]
 ---
 
+# SEO : Bases du référencement
+
+---
+
 ## Sommaire de l'article
 
 1. Critères de la réussite d'un référencement naturel
