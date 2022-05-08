@@ -146,6 +146,6 @@ Incontournable des développeurs mobiles qui souhaitent créer des applications 
 
 Créez des prototypes de vos projets de développeurs en créant des maquettes intéractives avec la possibilité de rajouter des collaborateurs, le projet est totalement gratuit et complet.
 
-![Lunacy](https://i.ibb.co/6tZbk0C/Capture-d-cran-de-2022-05-08-12-42-33.png
+![Lunacy](https://i.ibb.co/6tZbk0C/Capture-d-cran-de-2022-05-08-12-42-33.png)
 
 > [Site officiel de Lunacy](https://icons8.com/lunacy)
