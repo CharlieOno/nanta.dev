@@ -138,7 +138,7 @@ Un IDE complet pour créer vos applications Android avec la possibilité de tél
 
 Incontournable des développeurs mobiles qui souhaitent créer des applications Android.
 
-![Android Studio](https://i.ibb.co/1G31ywz/Capture-d-cran-de-2022-05-08-12-45-06.png)
+![Android Studio](https://i.ibb.co/8gJqvSY/Capture-d-cran-de-2022-05-08-12-45-06.png)
 
 > [Site officiel de Android Studio](https://developer.android.com/studio/)
 

@@ -29,7 +29,7 @@
         </p>
       </div>
       <div class="col-md-4 col-lg-5 col-xl-6 mb-3 d-none d-md-block mt-5">
-        <img  src="/jpg/work.jpg" alt="working-girl" />
+        <img  class="w-100" src="/jpg/work.jpg" alt="working-girl" />
       </div>
 
       <div class="mb-5"></div>
@@ -86,7 +86,6 @@ export default {
 }
 
 img {
-  width: 100%;
   border-radius: 2rem;
 }
 
