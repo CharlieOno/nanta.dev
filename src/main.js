@@ -34,12 +34,4 @@ export default function(Vue, { router, head, isClient }) {
     src: '/js/bootstrap.bundle.min.js',
     body: true
   })
-
-  head.script.push({
-    src: 'https://www.googletagmanager.com/gtag/js?id=G-EHNG6TJ3D4'
-  })
-
-  head.script.push({
-    src:'/js/gtag.js'
-  })
 }

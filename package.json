@@ -13,6 +13,7 @@
     "@vue/composition-api": "^1.6.0",
     "emailjs-com": "^3.2.0",
     "gridsome": "0.7.23",
+    "gridsome-plugin-gtag": "^0.1.10",
     "vue-recaptcha": "^2.0.2"
   }
 }

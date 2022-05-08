@@ -23,6 +23,14 @@ module.exports = {
         }
       }
     },
+    {
+      use: 'gridsome-plugin-gtag',
+      options: {
+          config: {
+              id: "G-EHNG6TJ3D4",
+          },
+      },
+    },
   ],
   templates: {
     Tag: '/tag/:id',
